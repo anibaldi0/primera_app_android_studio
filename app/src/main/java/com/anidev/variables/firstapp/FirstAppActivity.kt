@@ -22,7 +22,6 @@ class FirstAppActivity : AppCompatActivity() {
                 val intent = Intent(this, ResultActivity::class.java)
                 intent.putExtra("Extra_Name", name)
                 startActivity(intent)
-
             }
         }
         //para que arranque la primer pantalla
