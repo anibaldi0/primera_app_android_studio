@@ -12,5 +12,6 @@
         android:layout_gravity="top|center"
         android:textSize="24sp"
         android:text="Hola Mundo"/>
+<!--    :)-->
 
 </FrameLayout>
