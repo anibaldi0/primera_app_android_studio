@@ -3,4 +3,21 @@
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Re-Calcular</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo Peso</string>
+    <string name="description_bajo_peso">Peso por debajo de lo normal</string>
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="description_peso_normal">Peso Normal</string>
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Peso por arriba de lo normal</string>
+    <string name="title_obeso">Obeso</string>
+    <string name="description_obeso">Sobrepasa en exceso el peso normal</string>
+
 </resources>
